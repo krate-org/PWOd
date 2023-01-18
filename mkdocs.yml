@@ -1,0 +1,8 @@
+site_name: "LPEO"
+site_description: "LPEO"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
